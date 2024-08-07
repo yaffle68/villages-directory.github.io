@@ -1,6 +1,5 @@
 {
   "theData": [
-    [],
     [
       null,
       "Name of Organisation",
@@ -462,16 +461,6 @@
     []
   ],
   "directoryEntries": [
-    {
-      "organisationName": "Name of Organisation",
-      "category": "Activity",
-      "location": "Location",
-      "contactName": "Contact Name",
-      "telOrMobile": "Telephone/Mobile",
-      "email": "email",
-      "websiteUrl": "Website",
-      "facebook": "Facebook"
-    },
     {
       "organisationName": "St Wilfrid's Church",
       "location": "Main Street, Calverton NG14 6FG",
