@@ -2,249 +2,446 @@
   "theData": [
     [],
     [
-      "dgsdfgsdfdf",
-      "Calverton & District u3a",
       null,
-      "Calverton Preservation and History Society"
+      "Name of Organisation",
+      "Activity",
+      "Location",
+      "Contact Name",
+      "Telephone/Mobile",
+      "email",
+      "Website",
+      "Facebook"
     ],
     [
-      "activity",
+      "Done",
+      "St Wilfrid's Church",
+      null,
+      "Main Street, Calverton NG14 6FG",
+      "Jo Mason",
+      "Tel: 01159656081",
+      "office@stwilfrids-church.co.uk",
+      "www.stwilfrids-church.co.uk"
+    ],
+    [
+      "Done",
+      "Calverton Twinning Association",
+      "confirmed",
+      null,
+      "Mark Cleverly",
+      "Mob: 07443649436",
+      "marktclev@gmail.com"
+    ],
+    [
+      "Done",
+      "Just Sing",
+      "confirmed",
+      "Woodborough Village Hall",
+      "Cate Drake",
+      "Mob: 07717582507",
+      "cate.actually@gmail.com",
+      "www.Justsing.cc"
+    ],
+    [
+      "Done",
       "Calverton Bowls Club",
-      null,
-      "Calverton Theatre Group"
+      "confirmed",
+      "William Lee Park, Calverton NG14 6SA",
+      "Sharon Barnes",
+      "Mob: 07718900445",
+      "shazgerry@virginmedia.com",
+      "www.hugofox.com/calverton-park-bowls-club"
     ],
     [
-      "activity",
+      "Done",
+      "Calverton Churches Together Choir",
+      "confirmed",
+      "Baptist Church Main Street Calverton",
+      "Susie Corner",
+      "Mob:07796681832",
+      "susiecorner@hotmail.com",
+      "none recorded"
+    ],
+    [
+      "Done",
+      "Calverton Baptist Church",
+      null,
+      "Baptist Church Main Street Calverton",
+      "Judith Fox",
+      "Tel: 01159655179",
+      "judith_fox1@yahoo.co.uk",
+      "none recorded"
+    ],
+    [
+      "email sent",
+      "St Anthony's Church & Good Spherd Church",
+      null,
+      "Good Shepherd Church, Woodthorpe",
+      "Cheryl Broodryk",
+      null,
+      "cbroodryk62@gmail.com",
+      "www.goodshepherd-arnold.org.uk"
+    ],
+    [
+      null,
       "Calverton Cricket Club",
       null,
-      "Calverton Twinning Association"
+      "James Seely Park",
+      "Gareth Griffiths",
+      null,
+      "griff178@aol.com",
+      "www.calvertoncc.co.uk"
     ],
     [
-      "activity",
+      null,
       "Calverton Leisure Centre",
       null,
-      "Gedling Memory Cafe"
-    ],
-    [
-      "activity",
-      "Lornamaine Fitness",
+      "Flatts Lane",
       null,
-      "Lambley Historical Society"
+      "Tel: 01159013800",
+      "calverton@gedling.gov.uk",
+      "www.gedling.gov.uk/leisure/ourcentres/calvertonleisurecentre"
     ],
     [
-      "activity",
-      "Notts Country link",
       null,
-      "Mapperley & Arnold Rotary Club"
-    ],
-    [
-      "activity",
-      "Oakmere Golf Club",
-      null,
-      "Oxton Panto Group"
-    ],
-    [
-      "activity",
       "Ramsdale Golf Club",
       null,
-      "Oxton Women's Institute"
+      "Oxton Road, Calverton NG14 6NU",
+      null,
+      "Tel: 01159655600",
+      "info@ramsdaleparkgc.co.uk",
+      "www.ramsdaleparkgc.co.uk"
     ],
     [
-      "activity",
+      null,
       "Redhill Leisure Centre",
       null,
-      "Royal British Legion"
+      "Mellors Road, Redhill",
+      null,
+      "Tel: 01159013630",
+      null,
+      "www.gedling.gov.uk/leisure/ourcentres/redhillleisurecentre"
     ],
     [
-      "activity",
+      null,
+      "Oakmere Golf Club",
+      null,
+      "Oaks Lane, Oxton NG25 0RH",
+      "Pro shop/office",
+      "Tel: 01159653545",
+      "enquiries@oakmerepark.co.uk",
+      "www.oakmerepark.co.uk"
+    ],
+    [
+      null,
       "Springwater Golf Club",
+      null,
+      "Moor Lane, Calverton, NG14 6FZ",
+      "Paul Drew",
+      "Tel: 01159654946",
+      "paul.drew@springwatergolfclub.com",
+      "www.springwatergolfclub.com"
+    ],
+    [
+      null,
+      "Calverton Preservation and History Society",
+      null,
+      "Museum, Main Street, Calverton",
+      "Chris Peck",
+      "Tel: 01159654843",
+      "presscoc@ntlworld.com",
+      "none recorded"
+    ],
+    [
+      null,
+      "Calverton Theatre Group",
+      null,
+      "none recorded",
+      "Pat Marks",
+      "Mob: 07465402034",
+      "none recorded",
+      "none recorded"
+    ],
+    [
+      null,
+      "Gedling Memory Cafe",
+      null,
+      "Good Shepherd Church, Woodthorpe",
+      "Terry Beale",
+      "Mob: 07881816465",
+      null,
+      "none recorded"
+    ],
+    [
+      null,
+      "Lace City Chorus",
+      null,
+      "Col Frank Seely School",
+      "Diane Baker",
+      "Tel: 01158413174",
+      null,
+      "www.lacecitychorud.org"
+    ],
+    [
+      null,
+      "Lambley Historical Society",
+      null,
+      "Lowdham WI Hall",
+      "Kay Winfield",
+      "Mob: 07875755792",
+      null,
+      "www.lambleyheritage.co.uk"
+    ],
+    [
+      null,
+      "Lornamaine Fitness",
+      null,
+      "Lowdham Village Hall",
+      "Lorna Bell",
+      null,
+      null,
+      "www.lornamariefitness.co.uk"
+    ],
+    [
+      null,
+      "Mapperley & Arnold Rotary Club",
+      null,
+      "Mapperley Golf Club",
+      "David Gratton",
+      "Tel: 01159653395",
+      null,
+      "www.rotary-mapperleyarnold.org.uk"
+    ],
+    [
+      null,
+      "Notts Country link",
+      null,
+      null,
+      "Pat Bosworth",
+      "Mob: 07889869190",
+      null,
+      "none recorded"
+    ],
+    [
+      null,
+      "Oxton Panto Group",
+      null,
+      "Oxton Village Hall",
+      "David Wilkes",
+      "Mob: 07903142761",
+      null,
+      "none recorded"
+    ],
+    [
+      null,
+      "Oxton Women's Institute",
+      null,
+      "Oxton Village Hall, Main Street,Oxton NG25 0SA",
+      "Julia Stirland",
+      "Mob: 07968845588",
+      null,
+      "www.nottinghamshire.thewi.org.uk/find-wi/oxton"
+    ],
+    [
+      null,
+      "Royal British Legion",
+      null,
+      "Calverton Working Men's Club",
+      "none recorded",
+      "Tel: 01159652642",
+      null,
+      "www.calvertonwmc.co.uk"
+    ],
+    [
       null,
       "Scout & Guide Association"
     ],
     [
-      "activity",
-      "Woodborough Carpet Bowls Club",
       null,
-      "St Swithin's Church Fellowship"
+      "St Swithun's Church Fellowship",
+      null,
+      "Woodborough Institute",
+      "Althea"
     ],
     [
-      "choir",
-      "Calverton Churches Together Choir",
       null,
-      "Supreme Day Centre"
+      "Supreme Day Centre",
+      null,
+      "Village Hall, Calverton",
+      null,
+      null,
+      null,
+      "www.calvertonsupreme.co.uk"
     ],
     [
-      "choir",
-      "Just Sing",
       null,
-      "The Bookcase"
+      "The Bookcase",
+      null,
+      "50 Main Street, Lowdham NG14 7BE",
+      "Jane Streeter",
+      "Tel: 01159664143",
+      "janestreeter@thebookcase.co.uk",
+      "www.thebookcase.co.uk"
     ],
     [
-      "choir",
-      "Lace City Chorus",
       null,
-      "The Core Centre"
+      "The Core Centre",
+      null,
+      "Calverton Working Men's Club",
+      "Sam, Becky, Jane",
+      "Tel: 01158470551"
     ],
     [
-      "church",
-      "Calverton Baptist Church",
       null,
-      "Warthog Productions"
-    ],
-    [
-      "church",
-      "St Anthony's Chapel of Ease",
-      null,
-      "Woodborough Bridge Club"
-    ],
-    [
-      "Church",
-      "St Wilfrid's Church",
-      null,
-      "Woodborough Ladies"
-    ],
-    [
-      "Creative",
-      "Woodborough Art Group",
-      null,
-      "Woodborough Local History Society"
-    ],
-    [
-      "hospitality",
       "The Working Men's Club",
       null,
-      "Woodborough Women's Institute"
+      "Collyer Road",
+      "Geoff Briggs",
+      "Tel: 01159652642",
+      "info@calvertonwmc.co.uk",
+      "www.calvertonwmc.co.uk"
     ],
     [
       null,
+      "Top Club",
+      null,
+      "Hollinwood Lane, Calverton",
+      null,
+      "Tel: 0115654390",
+      null,
+      "www.calvertontopclub.wixsite.com/cmwfc"
+    ],
+    [
+      null,
+      "u3a",
+      null,
+      "Village Hall, Calverton"
+    ],
+    [
+      null,
+      "Warthog Productions",
+      null,
+      "Lowdham Village Hall",
+      "Glenn Turner",
+      "Tel: 01159653514",
+      "www.warthoglivemusic.com",
+      "www.warthoglivemusic.com"
+    ],
+    [
+      null,
+      "Woodborough Art Group",
+      null,
+      "Woodborough Institute",
+      "Jenny McKenzie"
+    ],
+    [
+      null,
+      "Woodborough Bridge Club",
+      null,
+      "Woodborough Village Hall",
       null,
       null,
-      "Young at Heart"
+      null,
+      "www.bridgeweb.co.uk/woodborough"
+    ],
+    [
+      null,
+      "Woodborough Carpet Bowls Club",
+      null,
+      "Woodborough Village Hall",
+      "Michael Dobbs",
+      "Tel: 01159652376",
+      "mhdkad@gmail.com"
+    ],
+    [
+      null,
+      "Woodborough Ladies",
+      null,
+      "Woodborough Institute"
+    ],
+    [
+      null,
+      "Woodborough Local History Society",
+      null,
+      "Woodborough Institute",
+      "Mike & Brenda Chapman",
+      "chapman48@btinternet.com"
+    ],
+    [
+      null,
+      "Woodborough Women's Institute",
+      null,
+      "Woodborough Institute",
+      "Alison Vernon",
+      "Mob: 07847414030"
+    ],
+    [
+      null,
+      "Young at Heart",
+      null,
+      "Methodist Church, Collyer Road",
+      "Maureen Wenn, Mrs Snowden"
+    ],
+    [
+      null,
+      "Calverton & District u3a",
+      null,
+      "Village Hall, Calverton",
+      "Pat Hand",
+      "Tel: 0115954611",
+      "pat9.hand@gmail.com",
+      "www.calvertonu3a.co.uk"
+    ],
+    [
+      null,
+      "Calverton Methodist Church",
+      null,
+      "161, Collyer Road, Calverton NG14 6LZ",
+      null,
+      null,
+      null,
+      "www.nottinghameastmethodistcicuit.org.uk/calverton"
     ],
     [],
-    [
-      "hospitality"
-    ],
-    [
-      "other",
-      "Calverton & District u3a",
-      null,
-      "Calverton Preservation and History Society"
-    ],
-    [
-      "other",
-      "Calverton Bowls Club",
-      null,
-      "Calverton Theatre Group"
-    ],
-    [
-      "other",
-      "Calverton Cricket Club",
-      null,
-      "Calverton Twinning Association"
-    ],
-    [
-      "other",
-      "Calverton Leisure Centre",
-      null,
-      "Gedling Memory Cafe"
-    ],
-    [
-      "other",
-      "Lornamaine Fitness",
-      null,
-      "Lambley Historical Society"
-    ],
-    [
-      "other",
-      "Notts Country link",
-      null,
-      "Mapperley & Arnold Rotary Club"
-    ],
-    [
-      "other",
-      "Oakmere Golf Club",
-      null,
-      "Oxton Panto Group"
-    ],
-    [
-      "other",
-      "Ramsdale Golf Club",
-      null,
-      "Oxton Women's Institute"
-    ],
-    [
-      "other",
-      "Redhill Leisure Centre",
-      null,
-      "Royal British Legion"
-    ],
-    [
-      "other",
-      "Springwater Golf Club",
-      null,
-      "Scout & Guide Association"
-    ],
-    [
-      "other",
-      "Woodborough Carpet Bowls Club",
-      null,
-      "St Swithin's Church Fellowship"
-    ],
-    [
-      "other",
-      "Calverton Churches Together Choir",
-      null,
-      "Supreme Day Centre"
-    ],
-    [
-      "other",
-      "Just Sing",
-      null,
-      "The Bookcase"
-    ],
-    [
-      "other",
-      "Lace City Chorus",
-      null,
-      "The Core Centre"
-    ],
-    [
-      "other",
-      "Calverton Baptist Church",
-      null,
-      "Warthog Productions"
-    ],
-    [
-      "other",
-      "St Anthony's Chapel of Ease",
-      null,
-      "Woodborough Bridge Club"
-    ],
-    [
-      "other",
-      "St Wilfrid's Church",
-      null,
-      "Woodborough Ladies"
-    ],
-    [
-      "other",
-      "Woodborough Art Group",
-      null,
-      "Woodborough Local History Society"
-    ],
-    [
-      "other",
-      "The Working Men's Club",
-      null,
-      "Woodborough Women's Institute"
-    ],
-    [
-      "other",
-      null,
-      null,
-      "Young at Heart"
-    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [],
     [],
     [],
