@@ -460,5 +460,357 @@
     [],
     [],
     []
+  ],
+  "directoryEntries": [
+    {
+      "organisationName": "Name of Organisation",
+      "category": "Activity",
+      "location": "Location",
+      "contactName": "Contact Name",
+      "telOrMobile": "Telephone/Mobile",
+      "email": "email",
+      "websiteUrl": "Website",
+      "facebook": "Facebook"
+    },
+    {
+      "organisationName": "St Wilfrid's Church",
+      "location": "Main Street, Calverton NG14 6FG",
+      "contactName": "Jo Mason",
+      "telOrMobile": "Tel: 01159656081",
+      "email": "office@stwilfrids-church.co.uk",
+      "websiteUrl": "www.stwilfrids-church.co.uk"
+    },
+    {
+      "organisationName": "Calverton Twinning Association",
+      "category": "confirmed",
+      "contactName": "Mark Cleverly",
+      "telOrMobile": "Mob: 07443649436",
+      "email": "marktclev@gmail.com"
+    },
+    {
+      "organisationName": "Just Sing",
+      "category": "confirmed",
+      "location": "Woodborough Village Hall",
+      "contactName": "Cate Drake",
+      "telOrMobile": "Mob: 07717582507",
+      "email": "cate.actually@gmail.com",
+      "websiteUrl": "www.Justsing.cc"
+    },
+    {
+      "organisationName": "Calverton Bowls Club",
+      "category": "confirmed",
+      "location": "William Lee Park, Calverton NG14 6SA",
+      "contactName": "Sharon Barnes",
+      "telOrMobile": "Mob: 07718900445",
+      "email": "shazgerry@virginmedia.com",
+      "websiteUrl": "www.hugofox.com/calverton-park-bowls-club"
+    },
+    {
+      "organisationName": "Calverton Churches Together Choir",
+      "category": "confirmed",
+      "location": "Baptist Church Main Street Calverton",
+      "contactName": "Susie Corner",
+      "telOrMobile": "Mob:07796681832",
+      "email": "susiecorner@hotmail.com",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Calverton Baptist Church",
+      "location": "Baptist Church Main Street Calverton",
+      "contactName": "Judith Fox",
+      "telOrMobile": "Tel: 01159655179",
+      "email": "judith_fox1@yahoo.co.uk",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "St Anthony's Church & Good Spherd Church",
+      "location": "Good Shepherd Church, Woodthorpe",
+      "contactName": "Cheryl Broodryk",
+      "email": "cbroodryk62@gmail.com",
+      "websiteUrl": "www.goodshepherd-arnold.org.uk"
+    },
+    {
+      "organisationName": "Calverton Cricket Club",
+      "location": "James Seely Park",
+      "contactName": "Gareth Griffiths",
+      "email": "griff178@aol.com",
+      "websiteUrl": "www.calvertoncc.co.uk"
+    },
+    {
+      "organisationName": "Calverton Leisure Centre",
+      "location": "Flatts Lane",
+      "telOrMobile": "Tel: 01159013800",
+      "email": "calverton@gedling.gov.uk",
+      "websiteUrl": "www.gedling.gov.uk/leisure/ourcentres/calvertonleisurecentre"
+    },
+    {
+      "organisationName": "Ramsdale Golf Club",
+      "location": "Oxton Road, Calverton NG14 6NU",
+      "telOrMobile": "Tel: 01159655600",
+      "email": "info@ramsdaleparkgc.co.uk",
+      "websiteUrl": "www.ramsdaleparkgc.co.uk"
+    },
+    {
+      "organisationName": "Redhill Leisure Centre",
+      "location": "Mellors Road, Redhill",
+      "telOrMobile": "Tel: 01159013630",
+      "websiteUrl": "www.gedling.gov.uk/leisure/ourcentres/redhillleisurecentre"
+    },
+    {
+      "organisationName": "Oakmere Golf Club",
+      "location": "Oaks Lane, Oxton NG25 0RH",
+      "contactName": "Pro shop/office",
+      "telOrMobile": "Tel: 01159653545",
+      "email": "enquiries@oakmerepark.co.uk",
+      "websiteUrl": "www.oakmerepark.co.uk"
+    },
+    {
+      "organisationName": "Springwater Golf Club",
+      "location": "Moor Lane, Calverton, NG14 6FZ",
+      "contactName": "Paul Drew",
+      "telOrMobile": "Tel: 01159654946",
+      "email": "paul.drew@springwatergolfclub.com",
+      "websiteUrl": "www.springwatergolfclub.com"
+    },
+    {
+      "organisationName": "Calverton Preservation and History Society",
+      "location": "Museum, Main Street, Calverton",
+      "contactName": "Chris Peck",
+      "telOrMobile": "Tel: 01159654843",
+      "email": "presscoc@ntlworld.com",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Calverton Theatre Group",
+      "location": "none recorded",
+      "contactName": "Pat Marks",
+      "telOrMobile": "Mob: 07465402034",
+      "email": "none recorded",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Gedling Memory Cafe",
+      "location": "Good Shepherd Church, Woodthorpe",
+      "contactName": "Terry Beale",
+      "telOrMobile": "Mob: 07881816465",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Lace City Chorus",
+      "location": "Col Frank Seely School",
+      "contactName": "Diane Baker",
+      "telOrMobile": "Tel: 01158413174",
+      "websiteUrl": "www.lacecitychorud.org"
+    },
+    {
+      "organisationName": "Lambley Historical Society",
+      "location": "Lowdham WI Hall",
+      "contactName": "Kay Winfield",
+      "telOrMobile": "Mob: 07875755792",
+      "websiteUrl": "www.lambleyheritage.co.uk"
+    },
+    {
+      "organisationName": "Lornamaine Fitness",
+      "location": "Lowdham Village Hall",
+      "contactName": "Lorna Bell",
+      "websiteUrl": "www.lornamariefitness.co.uk"
+    },
+    {
+      "organisationName": "Mapperley & Arnold Rotary Club",
+      "location": "Mapperley Golf Club",
+      "contactName": "David Gratton",
+      "telOrMobile": "Tel: 01159653395",
+      "websiteUrl": "www.rotary-mapperleyarnold.org.uk"
+    },
+    {
+      "organisationName": "Notts Country link",
+      "contactName": "Pat Bosworth",
+      "telOrMobile": "Mob: 07889869190",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Oxton Panto Group",
+      "location": "Oxton Village Hall",
+      "contactName": "David Wilkes",
+      "telOrMobile": "Mob: 07903142761",
+      "websiteUrl": "none recorded"
+    },
+    {
+      "organisationName": "Oxton Women's Institute",
+      "location": "Oxton Village Hall, Main Street,Oxton NG25 0SA",
+      "contactName": "Julia Stirland",
+      "telOrMobile": "Mob: 07968845588",
+      "websiteUrl": "www.nottinghamshire.thewi.org.uk/find-wi/oxton"
+    },
+    {
+      "organisationName": "Royal British Legion",
+      "location": "Calverton Working Men's Club",
+      "contactName": "none recorded",
+      "telOrMobile": "Tel: 01159652642",
+      "websiteUrl": "www.calvertonwmc.co.uk"
+    },
+    {
+      "organisationName": "Scout & Guide Association"
+    },
+    {
+      "organisationName": "St Swithun's Church Fellowship",
+      "location": "Woodborough Institute",
+      "contactName": "Althea"
+    },
+    {
+      "organisationName": "Supreme Day Centre",
+      "location": "Village Hall, Calverton",
+      "websiteUrl": "www.calvertonsupreme.co.uk"
+    },
+    {
+      "organisationName": "The Bookcase",
+      "location": "50 Main Street, Lowdham NG14 7BE",
+      "contactName": "Jane Streeter",
+      "telOrMobile": "Tel: 01159664143",
+      "email": "janestreeter@thebookcase.co.uk",
+      "websiteUrl": "www.thebookcase.co.uk"
+    },
+    {
+      "organisationName": "The Core Centre",
+      "location": "Calverton Working Men's Club",
+      "contactName": "Sam, Becky, Jane",
+      "telOrMobile": "Tel: 01158470551"
+    },
+    {
+      "organisationName": "The Working Men's Club",
+      "location": "Collyer Road",
+      "contactName": "Geoff Briggs",
+      "telOrMobile": "Tel: 01159652642",
+      "email": "info@calvertonwmc.co.uk",
+      "websiteUrl": "www.calvertonwmc.co.uk"
+    },
+    {
+      "organisationName": "Top Club",
+      "location": "Hollinwood Lane, Calverton",
+      "telOrMobile": "Tel: 0115654390",
+      "websiteUrl": "www.calvertontopclub.wixsite.com/cmwfc"
+    },
+    {
+      "organisationName": "u3a",
+      "location": "Village Hall, Calverton"
+    },
+    {
+      "organisationName": "Warthog Productions",
+      "location": "Lowdham Village Hall",
+      "contactName": "Glenn Turner",
+      "telOrMobile": "Tel: 01159653514",
+      "email": "www.warthoglivemusic.com",
+      "websiteUrl": "www.warthoglivemusic.com"
+    },
+    {
+      "organisationName": "Woodborough Art Group",
+      "location": "Woodborough Institute",
+      "contactName": "Jenny McKenzie"
+    },
+    {
+      "organisationName": "Woodborough Bridge Club",
+      "location": "Woodborough Village Hall",
+      "websiteUrl": "www.bridgeweb.co.uk/woodborough"
+    },
+    {
+      "organisationName": "Woodborough Carpet Bowls Club",
+      "location": "Woodborough Village Hall",
+      "contactName": "Michael Dobbs",
+      "telOrMobile": "Tel: 01159652376",
+      "email": "mhdkad@gmail.com"
+    },
+    {
+      "organisationName": "Woodborough Ladies",
+      "location": "Woodborough Institute"
+    },
+    {
+      "organisationName": "Woodborough Local History Society",
+      "location": "Woodborough Institute",
+      "contactName": "Mike & Brenda Chapman",
+      "telOrMobile": "chapman48@btinternet.com"
+    },
+    {
+      "organisationName": "Woodborough Women's Institute",
+      "location": "Woodborough Institute",
+      "contactName": "Alison Vernon",
+      "telOrMobile": "Mob: 07847414030"
+    },
+    {
+      "organisationName": "Young at Heart",
+      "location": "Methodist Church, Collyer Road",
+      "contactName": "Maureen Wenn, Mrs Snowden"
+    },
+    {
+      "organisationName": "Calverton & District u3a",
+      "location": "Village Hall, Calverton",
+      "contactName": "Pat Hand",
+      "telOrMobile": "Tel: 0115954611",
+      "email": "pat9.hand@gmail.com",
+      "websiteUrl": "www.calvertonu3a.co.uk"
+    },
+    {
+      "organisationName": "Calverton Methodist Church",
+      "location": "161, Collyer Road, Calverton NG14 6LZ",
+      "websiteUrl": "www.nottinghameastmethodistcicuit.org.uk/calverton"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
   ]
 }
