@@ -1,15 +1,5 @@
 {
   "directoryEntries": [
-    {},
-    {
-      "organisationName": "Name of Group",
-      "category": "Category",
-      "location": "Location",
-      "contactName": "Contact/Tel/Mob",
-      "telOrMobile": "Contact/Tel/Mob",
-      "email": "E-mail",
-      "websiteUrl": "Website"
-    },
     {
       "organisationName": "Lornamaine Fitness",
       "category": "Activity",
