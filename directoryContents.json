@@ -1,13 +1,23 @@
 {
   "directoryEntries": [
+    {},
+    {
+      "organisationName": "Name of Group",
+      "category": "Category",
+      "location": "Location",
+      "contactName": "Contact/Tel/Mob",
+      "telOrMobile": "Contact/Tel/Mob",
+      "email": "E-mail",
+      "websiteUrl": "Website"
+    },
     {
       "organisationName": "Lornamaine Fitness",
       "category": "Activity",
-      "location": "Lowdham",
+      "location": "Lowdhamlasjkdf",
       "contactName": "Lorna Bell               Mob:07492527747",
       "telOrMobile": "Lorna Bell               Mob:07492527747",
-      "email": "Lorna Bell               Mob:07492527747",
-      "websiteUrl": "lorna@lornamariefitness.co.uk"
+      "email": "lorna@lornamariefitness.co.uk",
+      "websiteUrl": "www.lornamariefitness.co.uk"
     },
     {
       "organisationName": "Calverton Library",
@@ -15,8 +25,8 @@
       "location": "Calverton",
       "contactName": "no person named Tel: 01623677200",
       "telOrMobile": "no person named Tel: 01623677200",
-      "email": "no person named Tel: 01623677200",
-      "websiteUrl": "Calverton.library@inspireculture.org.uk"
+      "email": "Calverton.library@inspireculture.org.uk",
+      "websiteUrl": "http://www.inspireculture.org.uk/reading-information/find-a-library/calverton-library"
     },
     {
       "organisationName": "Calverton Theatre Group",
@@ -24,8 +34,8 @@
       "location": "Calverton",
       "contactName": "Pat Marks          Mob: 07465402034",
       "telOrMobile": "Pat Marks          Mob: 07465402034",
-      "email": "Pat Marks          Mob: 07465402034",
-      "websiteUrl": "patmarks1@sky.com"
+      "email": "patmarks1@sky.com",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "Woodborough Art Group",
@@ -33,8 +43,8 @@
       "location": "Woodborough",
       "contactName": "Jenny McKenzie Mob: 07380668745",
       "telOrMobile": "Jenny McKenzie Mob: 07380668745",
-      "email": "Jenny McKenzie Mob: 07380668745",
-      "websiteUrl": "woodboroughartgroup@gmail.com"
+      "email": "woodboroughartgroup@gmail.com",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "Calverton Baptist Church",
@@ -42,8 +52,8 @@
       "location": "Calverton",
       "contactName": "Judith Fox             Tel: 01159655179",
       "telOrMobile": "Judith Fox             Tel: 01159655179",
-      "email": "Judith Fox             Tel: 01159655179",
-      "websiteUrl": "judith_fox1@yahoo.co.uk"
+      "email": "judith_fox1@yahoo.co.uk",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "Holy Cross Church",
@@ -51,8 +61,8 @@
       "location": "Epperstone",
       "contactName": "Paula Carlin        Mob: 07951143162",
       "telOrMobile": "Paula Carlin        Mob: 07951143162",
-      "email": "Paula Carlin        Mob: 07951143162",
-      "websiteUrl": "enquiries.egowbenefice@gmail.com"
+      "email": "enquiries.egowbenefice@gmail.com",
+      "websiteUrl": "www.4churches.org.uk"
     },
     {
       "organisationName": "St Anthony's Church & Good Shepherd Church",
@@ -60,8 +70,8 @@
       "location": "Calverton",
       "contactName": "Fr Philipp Ziomek Tel: 01159268288",
       "telOrMobile": "Fr Philipp Ziomek Tel: 01159268288",
-      "email": "Fr Philipp Ziomek Tel: 01159268288",
-      "websiteUrl": "goodshepherd@dioceseofnottingham.uk"
+      "email": "goodshepherd@dioceseofnottingham.uk",
+      "websiteUrl": "www.goodshepherd-arnold.org.uk"
     },
     {
       "organisationName": "St Laurence Church",
@@ -69,8 +79,8 @@
       "location": "Gonalston",
       "contactName": "Paula Carlin        Mob: 07951143162",
       "telOrMobile": "Paula Carlin        Mob: 07951143162",
-      "email": "Paula Carlin        Mob: 07951143162",
-      "websiteUrl": "enquiries.egowbenefice@gmail.com"
+      "email": "enquiries.egowbenefice@gmail.com",
+      "websiteUrl": "www.4churches.org.uk"
     },
     {
       "organisationName": "St Peter & St Paul Church",
@@ -78,8 +88,8 @@
       "location": "Oxton",
       "contactName": "Paula Carlin        Mob: 07951143162",
       "telOrMobile": "Paula Carlin        Mob: 07951143162",
-      "email": "Paula Carlin        Mob: 07951143162",
-      "websiteUrl": "enquiries.egowbenefice@gmail.com"
+      "email": "enquiries.egowbenefice@gmail.com",
+      "websiteUrl": "www.4churches.org.uk"
     },
     {
       "organisationName": "St Swithun Church",
@@ -87,8 +97,8 @@
       "location": "Woodborough",
       "contactName": "Paula Carlin        Mob: 07951143162",
       "telOrMobile": "Paula Carlin        Mob: 07951143162",
-      "email": "Paula Carlin        Mob: 07951143162",
-      "websiteUrl": "enquiries.egowbenefice@gmail.com"
+      "email": "enquiries.egowbenefice@gmail.com",
+      "websiteUrl": "www.4churches.org.uk"
     },
     {
       "organisationName": "St Wilfrid's Church",
@@ -96,8 +106,8 @@
       "location": "Calverton",
       "contactName": "Jo Mason              Tel: 01159656081",
       "telOrMobile": "Jo Mason              Tel: 01159656081",
-      "email": "Jo Mason              Tel: 01159656081",
-      "websiteUrl": "office@stwilfrids-church.co.uk"
+      "email": "office@stwilfrids-church.co.uk",
+      "websiteUrl": "www.stwilfrids-church.co.uk"
     },
     {
       "organisationName": "Gedling Memory Clinic",
@@ -105,7 +115,7 @@
       "location": "Good Shepherd Church, Woodthorpe",
       "contactName": "Terry Beale        Mob: 07881816465",
       "telOrMobile": "Terry Beale        Mob: 07881816465",
-      "email": "Terry Beale        Mob: 07881816465",
+      "email": "none recorded",
       "websiteUrl": "none recorded"
     },
     {
@@ -114,8 +124,8 @@
       "location": "Calverton",
       "contactName": "Wendy Bonas    Mob: 07528174556",
       "telOrMobile": "Wendy Bonas    Mob: 07528174556",
-      "email": "Wendy Bonas    Mob: 07528174556",
-      "websiteUrl": "dcen@cshc.onmicrosoft.com"
+      "email": "dcen@cshc.onmicrosoft.com",
+      "websiteUrl": "www.calvertonsupreme.co.uk"
     },
     {
       "organisationName": "Calverton Churches Together Choir",
@@ -123,8 +133,8 @@
       "location": "Calverton",
       "contactName": "Susie Corner      Mob: 07796681832",
       "telOrMobile": "Susie Corner      Mob: 07796681832",
-      "email": "Susie Corner      Mob: 07796681832",
-      "websiteUrl": "susiecorner@hotmail.com"
+      "email": "susiecorner@hotmail.com",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "Just Sing",
@@ -132,8 +142,8 @@
       "location": "Woodborough",
       "contactName": "Cate Drake         Mob: 07717582507",
       "telOrMobile": "Cate Drake         Mob: 07717582507",
-      "email": "Cate Drake         Mob: 07717582507",
-      "websiteUrl": "cate.actually@gmail.com"
+      "email": "cate.actually@gmail.com",
+      "websiteUrl": "www.Justsing.cc"
     },
     {
       "organisationName": "Lace City Chorus",
@@ -141,8 +151,8 @@
       "location": "Lowdham ",
       "contactName": "No person named   no contact number",
       "telOrMobile": "No person named   no contact number",
-      "email": "No person named   no contact number",
-      "websiteUrl": "information@lacecitychorus.org"
+      "email": "information@lacecitychorus.org",
+      "websiteUrl": "www.lacecitychorus.org"
     },
     {
       "organisationName": "Warthog Productions",
@@ -150,8 +160,8 @@
       "location": "Lowdham ",
       "contactName": "No person named   no contact number",
       "telOrMobile": "No person named   no contact number",
-      "email": "No person named   no contact number",
-      "websiteUrl": "info@warthoglivemusic.com"
+      "email": "info@warthoglivemusic.com",
+      "websiteUrl": "www.warthoglivemusic.com"
     },
     {
       "organisationName": "Calverton Leisure Centre",
@@ -159,8 +169,8 @@
       "location": "Calverton",
       "contactName": "No person named Tel: 01159013800",
       "telOrMobile": "No person named Tel: 01159013800",
-      "email": "No person named Tel: 01159013800",
-      "websiteUrl": "calverton@gedling.gov.uk"
+      "email": "calverton@gedling.gov.uk",
+      "websiteUrl": "www.gedling.gov.uk/leisure/ourcentres/calvertonleisurecentre"
     },
     {
       "organisationName": "Redhill Leisure Centre",
@@ -168,8 +178,8 @@
       "location": "Redhill",
       "contactName": "No person named Tel: 01159013630",
       "telOrMobile": "No person named Tel: 01159013630",
-      "email": "No person named Tel: 01159013630",
-      "websiteUrl": "redhill@gedling.gov.uk"
+      "email": "redhill@gedling.gov.uk",
+      "websiteUrl": "www.gedling.gov.uk/leisure/ourcentres/redhillleisurecentre"
     },
     {
       "organisationName": "Calverton & District u3a",
@@ -177,8 +187,8 @@
       "location": "Calverton",
       "contactName": "Pat Hand               Tel: 01159654611            ",
       "telOrMobile": "Pat Hand               Tel: 01159654611            ",
-      "email": "Pat Hand               Tel: 01159654611            ",
-      "websiteUrl": "pat9.hand@gmail.com"
+      "email": "pat9.hand@gmail.com",
+      "websiteUrl": "www.calvertonu3a.co.uk"
     },
     {
       "organisationName": "Calverton RNLI",
@@ -186,8 +196,7 @@
       "location": "Calverton",
       "contactName": "Pat Tatham           Tel: 01158479560",
       "telOrMobile": "Pat Tatham           Tel: 01158479560",
-      "email": "Pat Tatham           Tel: 01158479560",
-      "websiteUrl": "calverton.rnli@gmail.com"
+      "email": "calverton.rnli@gmail.com"
     },
     {
       "organisationName": "Calverton Twinning Association",
@@ -195,8 +204,7 @@
       "location": "Calverton",
       "contactName": "Mark Cleverly    Mob: 07443649436",
       "telOrMobile": "Mark Cleverly    Mob: 07443649436",
-      "email": "Mark Cleverly    Mob: 07443649436",
-      "websiteUrl": "marktclev@gmail.com"
+      "email": "marktclev@gmail.com"
     },
     {
       "organisationName": "Mapperley & Arnold Rotary Club",
@@ -204,8 +212,8 @@
       "location": "Mapperley",
       "contactName": "David Gratton    Mob: 07791456899",
       "telOrMobile": "David Gratton    Mob: 07791456899",
-      "email": "David Gratton    Mob: 07791456899",
-      "websiteUrl": "none recorded"
+      "email": "none recorded",
+      "websiteUrl": "www.rotary-mapperleyarnold.org.uk"
     },
     {
       "organisationName": "Notts Country link",
@@ -213,8 +221,8 @@
       "location": "Calverton",
       "contactName": "Pat Bosworth      Mob: 07889869190",
       "telOrMobile": "Pat Bosworth      Mob: 07889869190",
-      "email": "Pat Bosworth      Mob: 07889869190",
-      "websiteUrl": "none recorded"
+      "email": "none recorded",
+      "websiteUrl": "www.country-link/find-a-club.php"
     },
     {
       "organisationName": "Oxton Women's Institute",
@@ -222,8 +230,8 @@
       "location": "Oxton",
       "contactName": "Julia Stirland      Mob: 07968845588",
       "telOrMobile": "Julia Stirland      Mob: 07968845588",
-      "email": "Julia Stirland      Mob: 07968845588",
-      "websiteUrl": "oxtonpres@nottswi.org.uk"
+      "email": "oxtonpres@nottswi.org.uk",
+      "websiteUrl": "www.nottinghamshire.thewi.org.uk"
     },
     {
       "organisationName": "St Swithun's Church Fellowship",
@@ -231,8 +239,8 @@
       "location": "Woodborough",
       "contactName": "Paula Carlin        Mob: 07951143162",
       "telOrMobile": "Paula Carlin        Mob: 07951143162",
-      "email": "Paula Carlin        Mob: 07951143162",
-      "websiteUrl": "enquiries.egowbenefice@gmail.com"
+      "email": "enquiries.egowbenefice@gmail.com",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "The Bookcase",
@@ -240,8 +248,8 @@
       "location": "Lowdham",
       "contactName": "Jane Streeter        Tel: 01159664143",
       "telOrMobile": "Jane Streeter        Tel: 01159664143",
-      "email": "Jane Streeter        Tel: 01159664143",
-      "websiteUrl": "janestreeter@thebookcase.co.uk"
+      "email": "janestreeter@thebookcase.co.uk",
+      "websiteUrl": "www.thebookcase.co.uk"
     },
     {
       "organisationName": "The Core Centre",
@@ -249,8 +257,8 @@
       "location": "Calverton ",
       "contactName": "No person named Tel: 01158470551",
       "telOrMobile": "No person named Tel: 01158470551",
-      "email": "No person named Tel: 01158470551",
-      "websiteUrl": "info@calvertoncore.org.uk"
+      "email": "info@calvertoncore.org.uk",
+      "websiteUrl": "www.calvertoncore.org.uk"
     },
     {
       "organisationName": "The Working Men's Club",
@@ -258,8 +266,8 @@
       "location": "Calverton",
       "contactName": "Geoff Briggs Tel: 01159652642",
       "telOrMobile": "Geoff Briggs Tel: 01159652642",
-      "email": "Geoff Briggs Tel: 01159652642",
-      "websiteUrl": "info@calvertonwmc.co.uk"
+      "email": "info@calvertonwmc.co.uk",
+      "websiteUrl": "www.calvertonwmc.co.uk"
     },
     {
       "organisationName": "Top Club",
@@ -267,8 +275,8 @@
       "location": "Calverton",
       "contactName": "Viv Corcoran         Tel: 01159654390",
       "telOrMobile": "Viv Corcoran         Tel: 01159654390",
-      "email": "Viv Corcoran         Tel: 01159654390",
-      "websiteUrl": "topclub@gmail.com"
+      "email": "topclub@gmail.com",
+      "websiteUrl": "https://www.calvertonminerswelfarecoltsfc.com/social-club"
     },
     {
       "organisationName": "Woodborough Bridge Club",
@@ -276,8 +284,8 @@
       "location": "Woodborough",
       "contactName": "Jane Hall               Tel: 01159652595",
       "telOrMobile": "Jane Hall               Tel: 01159652595",
-      "email": "Jane Hall               Tel: 01159652595",
-      "websiteUrl": "janehall151@btinternet.com"
+      "email": "janehall151@btinternet.com",
+      "websiteUrl": "www.bridgewebs.co.uk/woodborough"
     },
     {
       "organisationName": "Woodborough Women's Institute",
@@ -285,8 +293,8 @@
       "location": "Woodborough",
       "contactName": "Sheila Hammond Tel: 01159266844",
       "telOrMobile": "Sheila Hammond Tel: 01159266844",
-      "email": "Sheila Hammond Tel: 01159266844",
-      "websiteUrl": "none recorded"
+      "email": "none recorded",
+      "websiteUrl": "www.woodboroughwi.weebly.com"
     },
     {
       "organisationName": "Young at Heart",
@@ -294,7 +302,7 @@
       "location": "Calverton",
       "contactName": "Maureen Wenn    Tel: 01159655691",
       "telOrMobile": "Maureen Wenn    Tel: 01159655691",
-      "email": "Maureen Wenn    Tel: 01159655691",
+      "email": "none recorded",
       "websiteUrl": "none recorded"
     },
     {
@@ -303,8 +311,8 @@
       "location": "Calverton",
       "contactName": "Chris Peck              Tel: 01159654843",
       "telOrMobile": "Chris Peck              Tel: 01159654843",
-      "email": "Chris Peck              Tel: 01159654843",
-      "websiteUrl": "pressoc@ntlworld.com"
+      "email": "pressoc@ntlworld.com",
+      "websiteUrl": "none recorded"
     },
     {
       "organisationName": "Lambley Historical Society",
@@ -312,8 +320,8 @@
       "location": "Lowdham",
       "contactName": "Kay Winfield      Mob: 07875755792",
       "telOrMobile": "Kay Winfield      Mob: 07875755792",
-      "email": "Kay Winfield      Mob: 07875755792",
-      "websiteUrl": "secretary@lambleyheritage.co.uk"
+      "email": "secretary@lambleyheritage.co.uk",
+      "websiteUrl": "www.lambleyheritage.co.uk"
     },
     {
       "organisationName": "Woodborough Local History Society",
@@ -321,8 +329,8 @@
       "location": "Woodborough",
       "contactName": "Mike Chapman      No Phone Number",
       "telOrMobile": "Mike Chapman      No Phone Number",
-      "email": "Mike Chapman      No Phone Number",
-      "websiteUrl": "chapman481@btinternet.com"
+      "email": "chapman481@btinternet.com",
+      "websiteUrl": "www.woodborough-heritage.org.uk"
     },
     {
       "organisationName": "Calverton Bowls Club",
@@ -330,8 +338,8 @@
       "location": "Calverton",
       "contactName": "Sharon Barnes    Mob: 07718900445",
       "telOrMobile": "Sharon Barnes    Mob: 07718900445",
-      "email": "Sharon Barnes    Mob: 07718900445",
-      "websiteUrl": "shazgerry@virginmedia.com"
+      "email": "shazgerry@virginmedia.com",
+      "websiteUrl": "www.hugofox.com/calverton-park-bowls-club"
     },
     {
       "organisationName": "Calverton Cricket Club",
@@ -339,8 +347,8 @@
       "location": "Calverton",
       "contactName": "Gareth Griffiths     No Phone Number         ",
       "telOrMobile": "Gareth Griffiths     No Phone Number         ",
-      "email": "Gareth Griffiths     No Phone Number         ",
-      "websiteUrl": "calvertonsec@gmail.com"
+      "email": "calvertonsec@gmail.com",
+      "websiteUrl": "www.calvertoncc.co.uk"
     },
     {
       "organisationName": "Oakmere Golf Club",
@@ -348,8 +356,8 @@
       "location": "Oxton",
       "contactName": "No person named Tel:01159653545",
       "telOrMobile": "No person named Tel:01159653545",
-      "email": "No person named Tel:01159653545",
-      "websiteUrl": "enquiries@oakmerepark.co.uk"
+      "email": "enquiries@oakmerepark.co.uk",
+      "websiteUrl": "www.oakmerepark.co.uk"
     },
     {
       "organisationName": "Ramsdale Golf Club",
@@ -357,8 +365,8 @@
       "location": "Calverton",
       "contactName": "no named person         Tel: 01159655600",
       "telOrMobile": "no named person         Tel: 01159655600",
-      "email": "no named person         Tel: 01159655600",
-      "websiteUrl": "info@ramsdaleparkgc.co.uk"
+      "email": "info@ramsdaleparkgc.co.uk",
+      "websiteUrl": "www.ramsdaleparkgc.co.uk"
     },
     {
       "organisationName": "Springwater Golf Club",
@@ -366,8 +374,8 @@
       "location": "Calverton",
       "contactName": "Paul Drew             Tel: 01159654946",
       "telOrMobile": "Paul Drew             Tel: 01159654946",
-      "email": "Paul Drew             Tel: 01159654946",
-      "websiteUrl": "paul.drew@springwatergolfclub.com"
+      "email": "paul.drew@springwatergolfclub.com",
+      "websiteUrl": "www.springwatergolfclub.com"
     },
     {
       "organisationName": "Woodborough Carpet Bowls Club",
@@ -375,8 +383,8 @@
       "location": "Woodborough",
       "contactName": "Michael Dobbs      Tel: 01159652376",
       "telOrMobile": "Michael Dobbs      Tel: 01159652376",
-      "email": "Michael Dobbs      Tel: 01159652376",
-      "websiteUrl": "mhdkad@gmail.com"
+      "email": "mhdkad@gmail.com",
+      "websiteUrl": "none recorded"
     },
     {},
     {},
