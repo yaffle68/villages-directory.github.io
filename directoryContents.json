@@ -1,6 +1,25 @@
 {
   "directoryEntries": [
     {
+      "organisationName": "Lornamaine FitnessS",
+      "category": "Activity",
+      "location": "Lowdham",
+      "contactName": "Lorna Bell               ",
+      "telephone": "1234567",
+      "mobile": "2223344",
+      "email": "lorna@lornamariefitness.co.uk",
+      "websiteUrl": "www.lornamariefitness.co.uk"
+    },
+    {
+      "organisationName": "Calverton Library",
+      "category": "Arts",
+      "location": "Calverton",
+      "contactName": "no person named ",
+      "telephone": "01623677200",
+      "email": "Calverton.library@inspireculture.org.uk",
+      "websiteUrl": "http://www.inspireculture.org.uk/reading-information/find-a-library/calverton-library"
+    },
+    {
       "organisationName": "Calverton Theatre Group",
       "category": "Arts",
       "location": "Calverton",
